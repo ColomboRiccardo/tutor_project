@@ -1,0 +1,15 @@
+body {
+	background-color: aliceblue;
+}
+
+p {
+	color: blue;
+}
+
+h1 {
+	color: blueviolet;
+}
+
+.first-paragraph {
+	font-size: 30px;
+}
